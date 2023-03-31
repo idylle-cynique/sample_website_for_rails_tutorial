@@ -1,6 +1,17 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+
 .nav-menu {
   text-align: right;
+}
+
+/* 画像リンク */
+.image-link {
+ text-decoration: none;
+}
+
+.quotation {
+  padding: 2px 20px;
+  background: gainsboro;
 }
